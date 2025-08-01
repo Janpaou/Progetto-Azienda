@@ -1,2 +1,2 @@
 # ProgettoAzienda
-inserire ricerca matricola per utente in visualizza dati dipendenti.
+Codice software, per il progetto di ingegneria del software.
